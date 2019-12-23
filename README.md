@@ -2,7 +2,7 @@ Created a simple and fun name list with REACT to help learn and understand this 
 
 ![](/namelist.png)
 
-The user is able to add names into the input field and use the "Submit name" button that will cause the onClick to add names to the list.
+The user is able to add names into the input field and use the "Submit name" button that will trigger the onClick to add names to the list.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
